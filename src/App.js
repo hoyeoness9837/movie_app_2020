@@ -20,6 +20,7 @@ class App extends React.Component {
     );
     console.log(movies);
     //when the data is ready, isLoading will be false. so the "We are ready" will be displayed
+    //[{id:123, url:"www.movieexample.com",...},{...},...,{...}]
     this.setState({ movies, isLoading: false });
   };
 
