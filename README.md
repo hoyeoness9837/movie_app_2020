@@ -15,4 +15,4 @@ use VS code and type in **npm start** Open http://localhost:3000 to view it 
 
 ## Github Repo
 
-[https://github.com/hoyeoness9837/Todo-Weather](https://github.com/hoyeoness9837/Todo-Weather)
+[https://github.com/hoyeoness9837/movie_app_2020](https://github.com/hoyeoness9837/movie_app_2020)
